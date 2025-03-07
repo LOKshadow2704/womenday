@@ -1,9 +1,16 @@
 const messages = [
-    "Chúc bạn ngày 8/3 thật hạnh phúc! 🌸",
-    "Hôm nay là ngày của bạn, tận hưởng đi nhé! 💖",
-    "Chúc bạn luôn vui vẻ và xinh đẹp! 😊",
-    "Mong bạn có thật nhiều niềm vui trong ngày đặc biệt này! 🎉"
+    "Chúc em ngày 8/3 tràn ngập yêu thương, nụ cười và những khoảnh khắc ngọt ngào bên người thương! 💖",
+    "Em là bông hoa đẹp nhất trong lòng anh, chúc em mãi rạng rỡ và hạnh phúc như hôm nay! 🌹",
+    "Không chỉ 8/3, mà mỗi ngày anh đều muốn dành cho em những điều ngọt ngào nhất! Yêu em! ❤️",
+    "Mong em luôn cười tươi như ánh nắng ban mai, dịu dàng như làn gió xuân, và hạnh phúc như những gì em xứng đáng có! 💕",
+    "8/3 chỉ là một ngày để nhắc nhở anh yêu em nhiều như thế nào. Nhưng thật ra, mỗi ngày bên em đều là một ngày đặc biệt! 😘",
+    "Anh chúc em luôn vui vẻ, xinh đẹp và tràn đầy năng lượng! Cảm ơn em vì đã là một phần quý giá trong cuộc đời anh! 💞",
+    "Em là điều tuyệt vời nhất mà anh có được. Chúc em ngày 8/3 rạng rỡ, hạnh phúc và mãi bên anh! 💘",
+    "Những bông hoa đẹp nhất dành cho người con gái tuyệt vời nhất – chính là em! Chúc em 8/3 tràn ngập yêu thương! 🌺",
+    "Trên thế giới có hàng triệu bông hoa nhưng với anh, em vẫn là đóa hoa đẹp nhất! Chúc em ngày 8/3 thật ngọt ngào và ấm áp! 🌷",
+    "Mỗi khoảnh khắc bên em đều là điều đáng trân trọng nhất. Chúc em 8/3 thật hạnh phúc, và hãy nhớ rằng anh luôn yêu em! 💓"
 ];
+
 
 document.getElementById("click").addEventListener("change", function () {
     let wishes = document.querySelector(".wishes");

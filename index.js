@@ -2,7 +2,6 @@ const messages = [
     "Chúc em 8/3 thật vui vẻ và hạnh phúc! 💐",
     "8/3 rạng rỡ nhé em! Chúc em luôn xinh đẹp và yêu đời! 😊",
     "Chúc em ngày 8/3 đầy ắp yêu thương và niềm vui! 💖",
-    "Mong em luôn cười thật tươi và hạnh phúc mỗi ngày! 💕",
     "8/3 thật nhiều niềm vui, yêu thương và những điều tốt đẹp nhất nhé em! 🎉",
     "Chúc em một ngày 8/3 ngọt ngào, ý nghĩa và luôn được yêu thương! 🌸",
     "Mừng 8/3! Chúc em luôn xinh đẹp, vui vẻ và gặp nhiều may mắn! 🌷",

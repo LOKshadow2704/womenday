@@ -1,15 +1,16 @@
 const messages = [
-    "Chúc em 8/3 vui vẻ, hạnh phúc và luôn rạng rỡ! 💖",
-    "Mong em có một ngày 8/3 tràn đầy niềm vui! 🌸",
-    "Chúc em luôn tươi cười và gặp nhiều may mắn! 😊",
-    "Hy vọng hôm nay sẽ là một ngày thật đặc biệt với em! 🎉",
-    "Chúc em một ngày 8/3 ý nghĩa và đáng nhớ! 💐",
-    "Chúc em nhận được nhiều yêu thương và bất ngờ vui vẻ! 💕",
-    "Mong em luôn vui vẻ, mạnh khỏe và hạnh phúc! 🌷",
-    "Chúc em luôn tự tin và tỏa sáng theo cách của mình! ✨",
-    "Hôm nay là ngày của em, tận hưởng thật trọn vẹn nhé! 🎊",
-    "Chúc em có một ngày 8/3 ngập tràn năng lượng tích cực! 🌻"
+    "Chúc em 8/3 thật vui vẻ và hạnh phúc! 💐",
+    "8/3 rạng rỡ nhé em! Chúc em luôn xinh đẹp và yêu đời! 😊",
+    "Chúc em ngày 8/3 đầy ắp yêu thương và niềm vui! 💖",
+    "Mong em luôn cười thật tươi và hạnh phúc mỗi ngày! 💕",
+    "8/3 thật nhiều niềm vui, yêu thương và những điều tốt đẹp nhất nhé em! 🎉",
+    "Chúc em một ngày 8/3 ngọt ngào, ý nghĩa và luôn được yêu thương! 🌸",
+    "Mừng 8/3! Chúc em luôn xinh đẹp, vui vẻ và gặp nhiều may mắn! 🌷",
+    "Chúc em 8/3 rạng rỡ như những bông hoa đẹp nhất! 💐",
+    "Mong ngày 8/3 mang đến cho em thật nhiều nụ cười và hạnh phúc! 💞",
+    "Chúc em ngày 8/3 thật đặc biệt và tràn đầy yêu thương! 💗"
 ];
+
 
 
 document.getElementById("click").addEventListener("change", function () {

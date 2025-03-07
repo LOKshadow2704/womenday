@@ -1,14 +1,14 @@
 const messages = [
-    "Chúc em ngày 8/3 tràn ngập yêu thương, nụ cười và những khoảnh khắc ngọt ngào bên người thương! 💖",
-    "Em là bông hoa đẹp nhất trong lòng anh, chúc em mãi rạng rỡ và hạnh phúc như hôm nay! 🌹",
-    "Không chỉ 8/3, mà mỗi ngày anh đều muốn dành cho em những điều ngọt ngào nhất! Yêu em! ❤️",
-    "Mong em luôn cười tươi như ánh nắng ban mai, dịu dàng như làn gió xuân, và hạnh phúc như những gì em xứng đáng có! 💕",
-    "8/3 chỉ là một ngày để nhắc nhở anh yêu em nhiều như thế nào. Nhưng thật ra, mỗi ngày bên em đều là một ngày đặc biệt! 😘",
-    "Anh chúc em luôn vui vẻ, xinh đẹp và tràn đầy năng lượng! Cảm ơn em vì đã là một phần quý giá trong cuộc đời anh! 💞",
-    "Em là điều tuyệt vời nhất mà anh có được. Chúc em ngày 8/3 rạng rỡ, hạnh phúc và mãi bên anh! 💘",
-    "Những bông hoa đẹp nhất dành cho người con gái tuyệt vời nhất – chính là em! Chúc em 8/3 tràn ngập yêu thương! 🌺",
-    "Trên thế giới có hàng triệu bông hoa nhưng với anh, em vẫn là đóa hoa đẹp nhất! Chúc em ngày 8/3 thật ngọt ngào và ấm áp! 🌷",
-    "Mỗi khoảnh khắc bên em đều là điều đáng trân trọng nhất. Chúc em 8/3 thật hạnh phúc, và hãy nhớ rằng anh luôn yêu em! 💓"
+    "Chúc em 8/3 vui vẻ, hạnh phúc và luôn rạng rỡ! 💖",
+    "Mong em có một ngày 8/3 tràn đầy niềm vui! 🌸",
+    "Chúc em luôn tươi cười và gặp nhiều may mắn! 😊",
+    "Hy vọng hôm nay sẽ là một ngày thật đặc biệt với em! 🎉",
+    "Chúc em một ngày 8/3 ý nghĩa và đáng nhớ! 💐",
+    "Chúc em nhận được nhiều yêu thương và bất ngờ vui vẻ! 💕",
+    "Mong em luôn vui vẻ, mạnh khỏe và hạnh phúc! 🌷",
+    "Chúc em luôn tự tin và tỏa sáng theo cách của mình! ✨",
+    "Hôm nay là ngày của em, tận hưởng thật trọn vẹn nhé! 🎊",
+    "Chúc em có một ngày 8/3 ngập tràn năng lượng tích cực! 🌻"
 ];
 
 

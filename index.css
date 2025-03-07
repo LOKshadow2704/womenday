@@ -81,6 +81,8 @@ input#click {
 #click:checked~.wishes {
     opacity: 1;
     transform: translateY(-200px);
+    width: 25vh;
+  text-align: left;
 }
 
 #click:checked+.click {

@@ -1,13 +1,13 @@
 const messages = [
-    "Chúc em 8/3 thật vui vẻ và hạnh phúc! 💐",
-    "8/3 rạng rỡ nhé em! Chúc em luôn xinh đẹp và yêu đời! 😊",
-    "Chúc em ngày 8/3 đầy ắp yêu thương và niềm vui! 💖",
-    "8/3 thật nhiều niềm vui, yêu thương và những điều tốt đẹp nhất nhé em! 🎉",
-    "Chúc em một ngày 8/3 ngọt ngào, ý nghĩa và luôn được yêu thương! 🌸",
-    "Mừng 8/3! Chúc em luôn xinh đẹp, vui vẻ và gặp nhiều may mắn! 🌷",
-    "Chúc em 8/3 rạng rỡ như những bông hoa đẹp nhất! 💐",
-    "Mong ngày 8/3 mang đến cho em thật nhiều nụ cười và hạnh phúc! 💞",
-    "Chúc em ngày 8/3 thật đặc biệt và tràn đầy yêu thương! 💗"
+    "Chúc bạn 8/3 thật vui vẻ, hạnh phúc bên gia đình và những người thân yêu! 💐",
+    "Mừng 8/3! Chúc bạn luôn khỏe mạnh, thành công và gặp nhiều may mắn! 😊",
+    "Chúc bạn một ngày 8/3 đầy ắp niềm vui, yêu thương và thật nhiều sức khỏe! 💖",
+    "8/3 rạng rỡ nhé! Mong bạn luôn hạnh phúc, gia đình êm ấm và công việc thuận lợi! 🎉",
+    "Chúc bạn và gia đình một ngày 8/3 tràn ngập tiếng cười và những điều tốt đẹp nhất! 🌸",
+    "Mừng ngày 8/3! Chúc bạn luôn xinh đẹp, vui vẻ và làm ăn phát đạt! 🌷",
+    "Chúc bạn 8/3 thật đặc biệt, sức khỏe dồi dào và mọi điều suôn sẻ! 💞",
+    "Mong bạn luôn giữ được nụ cười rạng rỡ, gia đình yên vui và công việc hanh thông! 💗",
+    "Chúc bạn ngày 8/3 ngập tràn hạnh phúc, sức khỏe dồi dào và mọi ước mơ đều thành hiện thực! 💐"
 ];
 
 
